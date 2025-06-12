@@ -1,1 +1,1 @@
-# pulse-app-demo
+pulse-ai-platform
